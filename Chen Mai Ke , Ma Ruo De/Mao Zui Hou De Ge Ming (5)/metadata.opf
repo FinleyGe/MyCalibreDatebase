@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9af4ae7b-e1af-4c1d-9584-fa943b1d323b</dc:identifier>
+        <dc:title>毛最后的革命</dc:title>
+        <dc:creator opf:file-as="沈迈克, 马若德" opf:role="aut">沈迈克, 马若德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-05T06:21:26+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;沈迈克, 马若德&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-09T11:50:35.122130+00:00"/>
+        <meta name="calibre:title_sort" content="毛最后的革命"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
